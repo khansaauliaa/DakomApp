@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dakom App</string>
+    <string name="iconimage">Room Dakwah</string>
+    <string name="background">Background</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
